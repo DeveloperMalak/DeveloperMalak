@@ -1,53 +1,66 @@
-<h1 align="center">Hi 👋, I'm Malak Noorullah Khan</h1>
-<h3 align="center">A passionate Flutter developer</h3>
+<h1 align="center">Hi, I'm Malak Noorullah Khan 👋</h1>
+<h3 align="center">A passionate Flutter developer building scalable & clean apps.</h3>
 
-- 🔭 I’m currently working on **chatbot**
+---
 
-- 📫 How to reach me: **malaknoorkhan12345@gmail.com**
+### 🔭 Current Project
+I'm currently working on **chatbot AI** to enhance user experience with smart conversations.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://kaggle.com/malaknoorullahkhan" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="malaknoorullahkhan" height="50" width="60" />
-  </a>
-  <a href="https://fb.com/malakkhan6577" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="malaknoorullahkhan" height="50" width="60" />
-  </a>
-  <a href="https://www.hackerrank.com/malaknoorkhan121" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="malaknoorkhan121" height="50" width="60" />
-  </a>
-</p>
+### 📫 Get in Touch
+Email: [malaknoorkhan12345@gmail.com](mailto:malaknoorkhan12345@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="70" height="70"/> 
-  </a>  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70" height="70"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="70" height="70"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> 
-  </a>   
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/> 
-  </a>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="70" height="70"/> 
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://kaggle.com/malaknoorullahkhan" target="_blank" rel="noopener">
+    <img alt="Kaggle" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" />
+  </a> &nbsp;&nbsp;
+  <a href="https://fb.com/malakkhan6577" target="_blank" rel="noopener">
+    <img alt="Facebook" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/malaknoorkhan121" target="_blank" rel="noopener">
+    <img alt="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperMalak&show_icons=true&theme=radical" alt="GitHub Stats" />
+### 🛠️ Technologies & Tools
+<p align="center">
+  <a href="https://dart.dev" target="_blank" rel="noopener">
+    <img alt="Dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" />
+  </a> &nbsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener">
+    <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" />
+  </a> &nbsp;
+  <a href="https://flutter.dev" target="_blank" rel="noopener">
+    <img alt="Flutter" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" />
+  </a> &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noopener">
+    <img alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" />
+  </a> &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noopener">
+    <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" />
+  </a> &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener">
+    <img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" />
+  </a>
 </p>
 
-<h3 align="left">🚀 Top Languages:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMalak&layout=compact&theme=radical" alt="Top Languages" />
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperMalak&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperMalak&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+> "Simplicity is the ultimate sophistication." – Leonardo da Vinci
+
